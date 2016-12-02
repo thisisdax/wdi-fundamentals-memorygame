@@ -11,7 +11,7 @@ display: inline-block;
   background-color: yellow;
   border-radius: 10px;
   float:left;
-  margin: 8%;
+  margin: 14%;
 }
 
 .clearfix:after {
@@ -37,6 +37,15 @@ h2 {
 
 p {
   font-family: cursive;
+}
+
+button {
+  display: block;
+  font-weight: bold;
+  font-size: 1em;
+  margin-left: 40%;
+  height: 3em;
+  width: 20%;
 }
 
 nav {
